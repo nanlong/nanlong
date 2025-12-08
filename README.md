@@ -54,6 +54,30 @@ impl Developer for Nanlong {
 混沌代码 → MVC分层 → Context边界 → DDD建模 → 六边形架构 → 模块化单体 → 微服务
 ```
 
+**数据库演进史** — 从单机到分布式的数据存储之旅
+
+```
+关系型 → NoSQL → 嵌入式 → 分布式 → OLAP/搜索 → 时序 → 向量 → PostgreSQL生态
+```
+
+**分布式一致性演进史** — 从单机事务到全球一致性
+
+```
+为何困难 → 2PC/CAP → Paxos/Raft → 最终一致性 → CRDT → 现代方案 → 实战
+```
+
+**并发模型演进史** — 从线程到协程的并发之道
+
+```
+为何困难 → 线程与锁 → 协程 → Actor → CSP → Rust所有权 → 实战
+```
+
+**认证演进史** — 从 Session 到无密码时代
+
+```
+Session → JWT → OAuth2.0 → OIDC → Passkey → 实战
+```
+
 **数据格式演进** — 从 XML 到 AI 时代的数据表示
 
 ```
@@ -71,6 +95,7 @@ MD5哈希 → Argon2 → SRP协议 → OPAQUE
     <img src="https://img.shields.io/badge/阅读更多-→-E67E22?style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
