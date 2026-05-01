@@ -41,7 +41,7 @@ impl Developer for Nanlong {
 
 | 项目 | 描述 | 技术 |
 |------|------|------|
-| [ddd](https://github.com/nanlong/ddd) | 面向 DDD 的轻量级 Rust 库，支持事件溯源与 CQRS | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
+| [eventide](https://github.com/nanlong/eventide) | 面向 DDD 的轻量级 Rust 库，支持事件溯源与 CQRS | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
 | [rust-architect](https://github.com/nanlong/rust-architect) | Claude Code 的 Rust 架构技能库 | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
 
 ---
